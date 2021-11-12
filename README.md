@@ -1,1 +1,1 @@
-# incorrect-mask-wearing-detection
+# Incorrect mask wearing detection using Convolutional Neural Networks
